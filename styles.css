@@ -1,0 +1,37 @@
+body{ 
+    background-color: burlywood;
+}
+h1{
+    colour:green;
+    backgound-color: red;
+}
+h3
+{color:rgb(43, 43, 56);
+    backgound-color:rgb(5, 24, 4);
+}
+h4
+{color:rgb(136, 54, 85);
+    backgound-color:aquamarine;
+    .admission process{ color:black;
+
+    }
+}
+h5
+{color:rgb(82, 31, 82);
+    backgound-color:rgb(194, 116, 14);
+}
+h6
+{color:rgb(130, 221, 87);
+    backgound-color:rgb(83, 10, 10);
+}
+p{
+    color:yellow;
+       background-color:blueviolet;
+}
+header{
+    color: aqua;
+}
+#main-content{
+    background-color: chartreuse;
+    padding:20px:
+}
